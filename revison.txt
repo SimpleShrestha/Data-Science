@@ -1,0 +1,6 @@
+#read titanic dataset
+#find total no.of female and male count
+#fint total number of dead female and dead male
+#find total number of survied male and survied female
+#find total number of people departed from S
+#find total number of male between 20 and 30 years old
